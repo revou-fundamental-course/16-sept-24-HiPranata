@@ -14,7 +14,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: black;
+    background-color: wheat;
     border-bottom: 1px solid black;
 }
 
@@ -27,7 +27,6 @@ header{
 .navbar {
     display: flex;
     justify-content: center;
-    background-color: wheat;
     padding: 10px 0;
     border: 1px solid black;
 }
@@ -45,14 +44,14 @@ header{
 .navbar a {
     text-decoration: none;
     padding: 10px 20px;
-    border: 1px solid aqua;
+    border: 1px solid black;
     border-radius: 10px;
     color: black;
     font-weight: bold;
 }
 
 .navbar a:hover {
-    background-color: aqua;
+    background-color: grey;
 }
 
 main{
